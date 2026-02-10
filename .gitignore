@@ -1,0 +1,23 @@
+
+
+
+.venv/
+venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Файлы IDE (VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Точки проверки Jupyter Notebook
+.ipynb_checkpoints/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
